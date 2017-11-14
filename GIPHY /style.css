@@ -1,0 +1,9 @@
+.item {
+	margin: 10 10 10 10;
+	padding: 10 10 10 10;
+	max-width: 100%;
+}
+
+.submitForm {
+	float:right;
+}
